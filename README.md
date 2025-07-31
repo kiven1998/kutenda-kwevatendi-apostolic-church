@@ -75,10 +75,10 @@
   </section>  <section id="gallery">
     <h2>Image Gallery</h2>
     <div class="gallery">
-      <img src="kkac website/images/banner.jpg" alt="KKAC">
-      <img src="kkac website/images/mutumwa.jpg" alt="OUR LEADER">
-      <img src="kkac website/images/SERVICE.jpg" alt="Worship Service">
-      <img src="kkac website/images/NHARIRA.jpg" alt="Youth Group">
+      <img src="./images/banner.jpg" alt="Church Event 1">
+      <img src="./images/mutumwa.jpg" alt="Church Event 2">
+      <img src="./images/NHARIRA.jpg" alt="Worship Service">
+      <img src="./images/SERVICE.jpg" alt="Youth Group">
     </div>
   </section>  <section id="videos">
     <h2>Videos</h2>
@@ -89,8 +89,8 @@
   </section>  <section id="contact">
     <h2>Contact Us</h2>
     <p>Email: <a href="mailto:info@kutendakwevatendi.org">info@kutendakwevatendi.org</a></p>
-    <p>Phone: +263783543541</p>
-    <p>Address: CHIKANGA, MUTARE, Zimbabwe</p>
+    <p>Phone: +263 77 123 4567</p>
+    <p>Address: 123 Faith Street, Harare, Zimbabwe</p>
     <p>WhatsApp: <a href="https://wa.me/263783543541" target="_blank">Chat with us on WhatsApp</a></p>
   </section>  <section id="social">
     <h2>Follow Us on Social Media</h2>
